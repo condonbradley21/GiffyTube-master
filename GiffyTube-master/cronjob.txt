@@ -1,0 +1,2 @@
+MAILTO=machtap@gmail.com
+1 * * * * sudo rm /var/www/giffytube/gifimages/*.gif
